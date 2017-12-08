@@ -6,14 +6,16 @@ using UnityEngine.UI;
 public class Controll : MonoBehaviour
 {
 
-    public float maxSpeed = 5f;
+    public float maxSpeed;
 
-    bool facingRight = false;
+    bool facingRight;
     public float currentSpeed;
 
     public int points = 0;
     public Text pointText;
+    public float SpeedY=-1f;
 
+    public GameObject camera;
 
     //bool pullAvaliable = false;
     //public LayerMask Pull;
@@ -30,6 +32,19 @@ public class Controll : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+
+        
+        int rnd = Random.Range(0, 1);
+        if(rnd<0.5)
+        {
+            maxSpeed = 1.5f;
+            facingRight = false;
+        }
+        if(rnd>0.5)
+        {
+            maxSpeed = -1.5f;
+            facingRight = true;
+        }
         currentSpeed = maxSpeed;
     }
 
@@ -62,6 +77,8 @@ public class Controll : MonoBehaviour
     void Update()
     {
 
+        
+
         if (Time.timeScale != 0)
         {
             if (points < 2500)
@@ -82,15 +99,17 @@ public class Controll : MonoBehaviour
             Debug.Log("Pressed left click.");
         }
 
-        rb.velocity = new Vector2(currentSpeed, 0);
+       rb.velocity = new Vector2(currentSpeed, SpeedY);
 
+
+        GrowScale();
        // CamShake();
     }
 
     public void GrowScale()
     {
        
-        Time.timeScale = 1.2f + (Mathf.Sqrt(points / 10)) / 100;
+        Time.timeScale = 1f + (Mathf.Sqrt(points / 10)) / 100;
         PlayerPrefs.SetFloat("GameScale", Time.timeScale);
         Debug.Log(Time.timeScale);
     }
@@ -110,12 +129,14 @@ public class Controll : MonoBehaviour
 
         if (coll.transform.tag == "Enemy")
         {
+            Destroy(gameObject);
+            camera.GetComponent<CameraShake>().shouldShake = true;
             
-            Application.LoadLevel(0);
-            if (GameObject.FindGameObjectsWithTag("Audio").Length > 0)
-            {
-                Destroy(GameObject.Find("mainMusic"));
-            }
+          //  Application.LoadLevel(0);
+            //if (GameObject.FindGameObjectsWithTag("Audio").Length > 0)
+            //{
+            //    Destroy(GameObject.Find("mainMusic"));
+            //}
 
             // score_death.text = "YOURE SCORE: " + (points / 10).ToString();
             // score_death.gameObject.SetActive(true);

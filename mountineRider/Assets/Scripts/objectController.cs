@@ -8,6 +8,7 @@ public class objectController : MonoBehaviour {
 
     Rigidbody2D enemy;
     public float speed = 3f;
+    public Transform EndLevel;
     
 
 	// Use this for initialization
@@ -21,22 +22,19 @@ public class objectController : MonoBehaviour {
         vel.y = 1 * speed;
         enemy.velocity = vel;
         
-        if(transform.position.x< -15)
-        {
-            Destroy(this.gameObject);
-        }
+       
 		
 	}
     void OnCollisionEnter2D(Collision2D coll)
     {
-        
+
         if (coll.transform.tag == "endplat")
         {
-            
+
             Destroy(gameObject);
         }
-        
-        
+
+
 
     }
 }
