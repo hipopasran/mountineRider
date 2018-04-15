@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94a950b1023a545d48dc32374559b6ef
+timeCreated: 1436256312
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - settings: {fileID: 11400000, guid: c51b5b80b433fbf4383dad30b0e46ffd, type: 2}
+  - meshMaterial: {fileID: 2100000, guid: 2a8cea595f803ab46ae6d9e9ab3f4e84, type: 2}
+  - svgFile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

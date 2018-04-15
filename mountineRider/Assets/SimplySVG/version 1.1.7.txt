@@ -1,0 +1,45 @@
+﻿1.1.7
+Feature: Color property can be 3 digit hex and one of 16 "safe" colors
+Feature: started to add css type style attributes. Firstly we have inline styles for same named attributes like stroke-width. (thank you hubermat)
+(please send your svg files with css-styles and I can check how we could support them)
+Bug fix: separating numbers with - when syntax is E-notation for example "3e-12" (thank you KSI)
+
+-----------
+1.1.6
+Feature: split svg file to separated meshes by layers
+Unity versions: bring back Unity 5.6 support
+Bug fix: sort layer issue when drag and drop image to scene in Unity 2017
+
+----------- 
+1.1.5
+-Updated Unity version. Updated package to Unity 2017.x
+
+----------- 
+1.1.4
+-bug fix: render sorter works correctly in editor
+
+----------- 
+1.1.3
+-UWP builds now work just fine
+-bug fix: Coordinates with values between 1 and 0 are handled correctly
+-bug fix: RendererProperties should now work with prefabs
+-bug fix: Hierarchy order sorts render order with SimplySVGImage component
+
+----------- 
+1.1.1 + 1.1.2
+-Bug fix: error with System.IO.File and read all text.
+-Bug fix: improved Unity 5.3 support
+-Bug fix: small geometry loses one triangle in specific situation
+-Bug fix: bounding box calculations fixed
+
+----------- 
+1.1.0 
+-Full support for clipping 
+-Experimental runtime support 
+-Improved usability 
+-Added support for Unity 5.3 and 4.7 
+-compatible with Puppet2D 
+
+----------- 
+1.0.1 
+-fixed couple of svg example files

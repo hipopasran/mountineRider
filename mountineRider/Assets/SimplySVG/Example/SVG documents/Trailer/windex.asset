@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4358942
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: windex-mesh
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 51
+    topology: 0
+    firstVertex: 0
+    vertexCount: 51
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 1.033269, y: 0.26343018, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 00000100020003000400050006000700080009000a000b000c000d000e000f0010001100120013001400150016001700180019001a001b001c001d001e001f0020002100220023002400250026002700280029002a002b002c002d002e002f00300031003200
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 13
+    m_VertexCount: 51
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 2
+      dimension: 4
+    - stream: 0
+      offset: 16
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 1224
+    _typelessdata: 294284bfae27d5bd00000000090518ff0000000024db9a3e99b17cbfa4c0acbd00000000090518ff4214b73c0207ae3e990577bf29ecf2bd00000000090518ff1e74073d28bb8c3e990577bf29ecf2bd00000000090518ff1e74073d28bb8c3e99b17cbfa4c0acbd00000000090518ff4214b73c0207ae3e7bf05dbf5c2f12bd00000000090518ff8ed3a43d2451dd3e990577bf29ecf2bd00000000090518ff1e74073d28bb8c3e7bf05dbf5c2f12bd00000000090518ff8ed3a43d2451dd3ee10251bfcd9c2bbe00000000090518ffb5dfd63df5453a3ee10251bfcd9c2bbe00000000090518ffb5dfd63df5453a3e7bf05dbf5c2f12bd00000000090518ff8ed3a43d2451dd3e99a149bf1e85c03b00000000090518ff8171f33dd2da023fe10251bfcd9c2bbe00000000090518ffb5dfd63df5453a3e99a149bf1e85c03b00000000090518ff8171f33dd2da023f0a4321bfd743ddbd00000000090518ff5fdc473efc01973e0a4321bfd743ddbd00000000090518ff5fdc473efc01973e99a149bf1e85c03b00000000090518ff8171f33dd2da023fc2d520bf3d0ac4bc00000000090518ffe5af483e8bbee83ec2d520bf3d0ac4bc00000000090518ffe5af483e8bbee83e99a149bf1e85c03b00000000090518ff8171f33dd2da023f7b9035bf5278743d00000000090518ff2f90203e35001d3fc2d520bf3d0ac4bc00000000090518ffe5af483e8bbee83e7b9035bf5278743d00000000090518ff2f90203e35001d3f851f20bfe122013e00000000090518ffa3104a3ebd463d3f0a4321bfd743ddbd00000000090518ff5fdc473efc01973ec2d520bf3d0ac4bc00000000090518ffe5af483e8bbee83eaea3223f8fc20abc00000000090518ff8db34e3f07c5f73ec2d520bf3d0ac4bc00000000090518ffe5af483e8bbee83eeba9213fcd3cb23d00000000090518ffb13a4e3fa4492a3faea3223f8fc20abc00000000090518ff8db34e3f07c5f73eaea3223f8fc20abc00000000090518ff8db34e3f07c5f73eeba9213fcd3cb23d00000000090518ffb13a4e3fa4492a3fb83a423ff5a8593d00000000090518ffe1fc5d3f06d2193fb83a423ff5a8593d00000000090518ffe1fc5d3f06d2193feba9213fcd3cb23d00000000090518ffb13a4e3fa4492a3ff5dc463f66e6773e00000000090518ffe73a603f7ca1753fb83a423ff5a8593d00000000090518ffe1fc5d3f06d2193ff5dc463f66e6773e00000000090518ffe73a603f7ca1753f14d8823f52e0863e00000000090518ff94a17e3f0000803faea3223f8fc20abc00000000090518ff8db34e3f07c5f73eb83a423ff5a8593d00000000090518ffe1fc5d3f06d2193f47494d3f5c7f19be00000000090518ff9756633ffca75c3e47494d3f5c7f19be00000000090518ff9756633ffca75c3eb83a423ff5a8593d00000000090518ffe1fc5d3f06d2193f2942843f291c0ebe00000000090518ff0000803f2445723e7b482cbf66ee6dbe00000000090518ff2e87323e6f97713de10251bfcd9c2bbe00000000090518ffb5dfd63df5453a3e0a4321bfd743ddbd00000000090518ff5fdc473efc01973e7b482cbf66ee6dbe00000000090518ff2e87323e6f97713d0a4321bfd743ddbd00000000090518ff5fdc473efc01973e7b801bbf52e086be00000000090518ff8902533e00000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 1.033269, y: 0.26343018, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7a62bfe4299ef46b9fba921123834d, type: 3}
+  m_Name: windex-settings
+  m_EditorClassIdentifier: 
+  svgFile: {fileID: 102900000, guid: c8f891faa9a1e934098a84076ea64d4a, type: 3}
+  splitMeshesByLayers: 0
+  _splitCollidersByLayers: 1
+  scale: 0.01
+  maxSubdivisonDepth: 8
+  minSubdivisionDistanceDelta: 0.33333334
+  pivot: {x: 0.5, y: 0.5}
+--- !u!114 &11426430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6145efa6718bc54fb8aa7f6985e0d90, type: 3}
+  m_Name: windex
+  m_EditorClassIdentifier: 
+  collisionPolygons:
+  - points:
+    - {x: -0.6074292, y: -0.26343018}
+    - {x: -1.033269, y: -0.10407959}
+    - {x: -0.62548095, y: 0.12610961}
+    - {x: 1.0222192, y: 0.26343018}
+    - {x: 1.033269, y: -0.1387793}
+--- !u!114 &114323029626657770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6145efa6718bc54fb8aa7f6985e0d90, type: 3}
+  m_Name: windex-collision
+  m_EditorClassIdentifier: 
+  collisionPolygons:
+  - points:
+    - {x: -0.6074292, y: -0.26343018}
+    - {x: -1.033269, y: -0.10407959}
+    - {x: -0.62548095, y: 0.12610961}
+    - {x: 1.0222192, y: 0.26343018}
+    - {x: 1.033269, y: -0.1387793}

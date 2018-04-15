@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4396568
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: flagpole-mesh
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 84
+    topology: 0
+    firstVertex: 0
+    vertexCount: 84
+    localAABB:
+      m_Center: {x: 0.0000012218952, y: 0, z: 0}
+      m_Extent: {x: 0.6394055, y: 0.57344115, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 00000100020003000400050006000700080009000a000b000c000d000e000f0010001100120013001400150016001700180019001a001b001c001d001e001f0020002100220023002400250026002700280029002a002b002c002d002e002f0030003100320033003400350036003700380039003a003b003c003d003e003f0040004100420043004400450046004700480049004a004b004c004d004e004f005000510052005300
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 13
+    m_VertexCount: 84
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 2
+      dimension: 4
+    - stream: 0
+      offset: 16
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 2016
+    _typelessdata: 29b0233f0acd12bf000000005e555fff0000803f0000000070f106bfb8aedf3e000000005e555fffc3d1b33d8484613fe1261c3faeefe4be000000005e555fff591b7a3f0c89e13d70f106bfb8aedf3e000000005e555fffc3d1b33d8484613f5cb7febe66e6e73e000000005e555fff0b45e33da519653fe1261c3faeefe4be000000005e555fff591b7a3f0c89e13d7b1c223faeaf00bf00000000302c36ff55c47e3f2eb77c3dae0f02bfa4f8e43e00000000302c36ff065cd23dc6d2633fe1261c3faeefe4be00000000302c36ff591b7a3f0c89e13dae0f02bfa4f8e43e00000000302c36ff065cd23dc6d2633f5cb7febe66e6e73e00000000302c36ff0b45e33da519653fe1261c3faeefe4be00000000302c36ff591b7a3f0c89e13d29081ebff5f8e33e00000000302c36ffa7858d3c4f63633fd74322bfcca8f03e00000000302c36ffdc618e3b40eb683f00b023bf331bff3e00000000302c36ff000000009f376f3f29081ebff5f8e33e00000000302c36ffa7858d3c4f63633f00b023bf331bff3e00000000302c36ff000000009f376f3fd7171ebf33250d3f00000000302c36ff4afd8b3c96117b3fd7171ebf33250d3f00000000302c36ff4afd8b3c96117b3f00b023bf331bff3e00000000302c36ff000000009f376f3f294c22bf7bc8063f00000000302c36ff15218b3b7585753f33ef02bff6340d3f00000000302c36ffb9e5cc3d541f7b3f29081ebff5f8e33e00000000302c36ffa7858d3c4f63633fd7171ebf33250d3f00000000302c36ff4afd8b3c96117b3f33ef02bff6340d3f00000000302c36ffb9e5cc3d541f7b3fd7171ebf33250d3f00000000302c36ff4afd8b3c96117b3f00c017bfb860113f00000000302c36ff845b153d57c27e3fb88610bf0acd123f00000000302c36ff02bd6f3d0000803f33ef02bff6340d3f00000000302c36ffb9e5cc3d541f7b3f00c017bfb860113f00000000302c36ff845b153d57c27e3f004c09bf3369113f00000000302c36ff4218a53dbcc97e3f33ef02bff6340d3f00000000302c36ffb9e5cc3d541f7b3fb88610bf0acd123f00000000302c36ff02bd6f3d0000803fb89e12bf1e69d43e00000000302c36ffc78a553d7f9a5c3f29081ebff5f8e33e00000000302c36ffa7858d3c4f63633f33ef02bff6340d3f00000000302c36ffb9e5cc3d541f7b3f149ef5bef6de013f00000000302c36ffd0baff3dfd3c713fb89e12bf1e69d43e00000000302c36ffc78a553d7f9a5c3f33ef02bff6340d3f00000000302c36ffb9e5cc3d541f7b3f149ef5bef6de013f00000000302c36ffd0baff3dfd3c713f33dbf0beeba9ef3e00000000302c36ffad4f073e227c683fb89e12bf1e69d43e00000000302c36ffc78a553d7f9a5c3f525008bf8f56d03e00000000302c36ffb93eab3dfad35a3fb89e12bf1e69d43e00000000302c36ffc78a553d7f9a5c3f33dbf0beeba9ef3e00000000302c36ffad4f073e227c683ff67000bfaedbd23e00000000302c36ff6f7edc3d3aed5b3f525008bf8f56d03e00000000302c36ffb93eab3dfad35a3f33dbf0beeba9ef3e00000000302c36ffad4f073e227c683f294cf3be5220e03e00000000302c36ff457e033e0ab6613ff67000bfaedbd23e00000000302c36ff6f7edc3d3aed5b3f33dbf0beeba9ef3e00000000302c36ffad4f073e227c683fa3a8f8beeb11d73e00000000302c36ff8c37f63d4dc35d3ff67000bfaedbd23e00000000302c36ff6f7edc3d3aed5b3f294cf3be5220e03e00000000302c36ff457e033e0ab6613f99a51bbf29de063f000000005e555fffd833c93c5d98753febcd1cbf00a40a3f000000005e555ffff53cac3c81e2783f701d1abf7bac0e3f000000005e555ffff688ef3cc1667c3f99a51bbf29de063f000000005e555fffd833c93c5d98753f701d1abf7bac0e3f000000005e555ffff688ef3cc1667c3f991515bf29b00f3f000000005e555fff72b5363d2d497d3f007c13bf3dceff3e000000005e555fff35ba4a3dad856f3f99a51bbf29de063f000000005e555fffd833c93c5d98753f991515bf29b00f3f000000005e555fff72b5363d2d497d3f007c13bf3dceff3e000000005e555fff35ba4a3dad856f3f991515bf29b00f3f000000005e555fff72b5363d2d497d3f29d00cbfb8d40f3f000000005e555fff07198f3d0e697d3f007c13bf3dceff3e000000005e555fff35ba4a3dad856f3f29d00cbfb8d40f3f000000005e555fff07198f3d0e697d3f0afb05bfd73f0c3f000000005e555fff31d7b93d9a497a3f666208bf1492f73e000000005e555fff9ecdaa3d98ee6b3f007c13bf3dceff3e000000005e555fff35ba4a3dad856f3f0afb05bfd73f0c3f000000005e555fff31d7b93d9a497a3f666208bf1492f73e000000005e555fff9ecdaa3d98ee6b3f0afb05bfd73f0c3f000000005e555fff31d7b93d9a497a3f5c5b01bfae9d073f000000005e555fff12c4d63d5a3f763fb82efcbeb80c023f000000005e555fffed31eb3de464713f666208bf1492f73e000000005e555fff9ecdaa3d98ee6b3f5c5b01bfae9d073f000000005e555fff12c4d63d5a3f763f5cbffdbe666af93e000000005e555fffc44ce63d82bc6c3f666208bf1492f73e000000005e555fff9ecdaa3d98ee6b3fb82efcbeb80c023f000000005e555fffed31eb3de464713f5cbffdbe666af93e000000005e555fffc44ce63d82bc6c3fb82efcbeb80c023f000000005e555fffed31eb3de464713f14befabeae03fe3e000000005e555fff00b3ef3dc3bd6e3f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0.0000012218952, y: 0, z: 0}
+    m_Extent: {x: 0.6394055, y: 0.57344115, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7a62bfe4299ef46b9fba921123834d, type: 3}
+  m_Name: flagpole-settings
+  m_EditorClassIdentifier: 
+  svgFile: {fileID: 102900000, guid: d961013e7c824e741a1e962f36d5925f, type: 3}
+  splitMeshesByLayers: 0
+  _splitCollidersByLayers: 1
+  scale: 0.01
+  maxSubdivisonDepth: 8
+  minSubdivisionDistanceDelta: 0.33333334
+  pivot: {x: 0.5, y: 0.5}
+--- !u!114 &11476024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6145efa6718bc54fb8aa7f6985e0d90, type: 3}
+  m_Name: flagpole
+  m_EditorClassIdentifier: 
+  collisionPolygons:
+  - points:
+    - {x: -0.617312, y: 0.44525877}
+    - {x: -0.63384765, y: 0.47003782}
+    - {x: -0.6394043, y: 0.4982544}
+    - {x: -0.6339746, y: 0.5264966}
+    - {x: -0.61755127, y: 0.55134887}
+    - {x: -0.59277344, y: 0.56788206}
+    - {x: -0.56455564, y: 0.57344115}
+    - {x: -0.5363159, y: 0.56801146}
+    - {x: -0.5114624, y: 0.55158937}
+    - {x: 0.60996825, y: -0.4471411}
+    - {x: 0.6332471, y: -0.50268066}
+    - {x: 0.63940674, y: -0.57344115}
+--- !u!114 &114247994295458816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6145efa6718bc54fb8aa7f6985e0d90, type: 3}
+  m_Name: flagpole-collision
+  m_EditorClassIdentifier: 
+  collisionPolygons:
+  - points:
+    - {x: -0.617312, y: 0.44525877}
+    - {x: -0.63384765, y: 0.47003782}
+    - {x: -0.6394043, y: 0.4982544}
+    - {x: -0.6339746, y: 0.5264966}
+    - {x: -0.61755127, y: 0.55134887}
+    - {x: -0.59277344, y: 0.56788206}
+    - {x: -0.56455564, y: 0.57344115}
+    - {x: -0.5363159, y: 0.56801146}
+    - {x: -0.5114624, y: 0.55158937}
+    - {x: 0.60996825, y: -0.4471411}
+    - {x: 0.6332471, y: -0.50268066}
+    - {x: 0.63940674, y: -0.57344115}

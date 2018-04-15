@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4325340
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: smokepuff-mesh
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 57
+    topology: 0
+    firstVertex: 0
+    vertexCount: 57
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 1.2798065, y: 1.2703332, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 00000100020003000400050006000700080009000a000b000c000d000e000f0010001100120013001400150016001700180019001a001b001c001d001e001f0020002100220023002400250026002700280029002a002b002c002d002e002f00300031003200330034003500360037003800
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 13
+    m_VertexCount: 57
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 2
+      dimension: 4
+    - stream: 0
+      offset: 16
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 1368
+    _typelessdata: 42dc9ebf47adc83e000000009999991997c7773c337e273fb3d0a3bf330b1e3f000000009999991900000000a4343e3ff0469bbf70675e3f0000000099999919437cd53ca689573f1e1fb9be85f29a3f00000000999999190cadb73e49f9793f42dc9ebf47adc83e000000009999991997c7773c337e273ff0469bbf70675e3f0000000099999919437cd53ca689573f576d82bf3386923f000000009999991914b5d03dd857733f1e1fb9be85f29a3f00000000999999190cadb73e49f9793ff0469bbf70675e3f0000000099999919437cd53ca689573f1e1fb9be85f29a3f00000000999999190cadb73e49f9793f576d82bf3386923f000000009999991914b5d03dd857733f0a6a4dbf479aa23f0000000099999919e4fd3e3e0000803f336877bf5c8fe83c000000009999991974bcfa3d48dc023f42dc9ebf47adc83e000000009999991997c7773c337e273f1e1fb9be85f29a3f00000000999999190cadb73e49f9793f336877bf5c8fe83c000000009999991974bcfa3d48dc023f1e1fb9be85f29a3f00000000999999190cadb73e49f9793f1f41093e0aa3533f0000000099999919e1670d3fbc4c533ff516ecbe5cc791be000000009999991976c3a33e319fc63e336877bf5c8fe83c000000009999991974bcfa3d48dc023f1f41093e0aa3533f0000000099999919e1670d3fbc4c533ff516ecbe5cc791be000000009999991976c3a33e319fc63e1f41093e0aa3533f0000000099999919e1670d3fbc4c533fd7b8693f336b4dbe0000000099999919bd4f5b3fe892d73ed7b8693f336b4dbe0000000099999919bd4f5b3fe892d73e1f41093e0aa3533f0000000099999919e1670d3fbc4c533f94ad973f5c07073e00000000999999193284763f68490d3f94ad973f5c07073e00000000999999193284763f68490d3f1f41093e0aa3533f0000000099999919e1670d3fbc4c533f8f1b013f5c15863f0000000099999919b870323fc18c693f5c9c543f70dc8c3f00000000999999194b10533f99e26e3f94ad973f5c07073e00000000999999193284763f68490d3f8f1b013f5c15863f0000000099999919b870323fc18c693fb3d0a33f29b4f93e00000000999999190000803f3224313f94ad973f5c07073e00000000999999193284763f68490d3f5c9c543f70dc8c3f00000000999999194b10533f99e26e3fb3d0a33f29b4f93e00000000999999190000803f3224313f5c9c543f70dc8c3f00000000999999194b10533f99e26e3f808a903fc2b56a3f000000009999991993f0703f9b615c3f85a1d8bea4924bbf0000000099999919a25dab3e3b7f3f3ef516ecbe5cc791be000000009999991976c3a33e319fc63ed7b8693f336b4dbe0000000099999919bd4f5b3fe892d73ed7b8693f336b4dbe0000000099999919bd4f5b3fe892d73e335e143fcd119abf00000000999999190af7393f94f3d63c85a1d8bea4924bbf0000000099999919a25dab3e3b7f3f3e335e143fcd119abf00000000999999190af7393f94f3d63ce1fe503e479aa2bf0000000099999919ae69143f0000000085a1d8bea4924bbf0000000099999919a25dab3e3b7f3f3e85a1d8bea4924bbf0000000099999919a25dab3e3b7f3f3ee1fe503e479aa2bf0000000099999919ae69143f000000001ed16cbea46f91bf00000000999999195ebdd13e0537583dd7b8693f336b4dbe0000000099999919bd4f5b3fe892d73e052c813fc25b35bf00000000999999194cee643f9978623e335e143fcd119abf00000000999999190af7393f94f3d63c335e143fcd119abf00000000999999190af7393f94f3d63c052c813fc25b35bf00000000999999194cee643f9978623ee161523f8f5089bf00000000999999196a31523fa4409f3d
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 1.2798065, y: 1.2703332, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7a62bfe4299ef46b9fba921123834d, type: 3}
+  m_Name: smokepuff-settings
+  m_EditorClassIdentifier: 
+  svgFile: {fileID: 102900000, guid: cde84bedc3bb77c45a2c4844a2c7026f, type: 3}
+  splitMeshesByLayers: 0
+  _splitCollidersByLayers: 1
+  scale: 0.01
+  maxSubdivisonDepth: 8
+  minSubdivisionDistanceDelta: 5
+  pivot: {x: 0.5, y: 0.5}
+--- !u!114 &11462468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6145efa6718bc54fb8aa7f6985e0d90, type: 3}
+  m_Name: smokepuff
+  m_EditorClassIdentifier: 
+  collisionPolygons:
+  - points:
+    - {x: 1.0091559, y: -0.70843136}
+    - {x: 0.821806, y: -1.072771}
+    - {x: 0.57956237, y: -1.2036682}
+    - {x: 0.20409729, y: -1.2703332}
+    - {x: -0.23126647, y: -1.1362195}
+    - {x: -1.2410967, y: 0.391947}
+    - {x: -1.2798065, y: 0.6173584}
+    - {x: -1.2131023, y: 0.86876583}
+    - {x: -1.0189618, y: 1.1447204}
+    - {x: -0.8023993, y: 1.2703332}
+    - {x: 0.83051085, y: 1.1004772}
+    - {x: 1.1292267, y: 0.9168359}
+    - {x: 1.2798065, y: 0.48770264}
+--- !u!114 &114770946366043144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6145efa6718bc54fb8aa7f6985e0d90, type: 3}
+  m_Name: smokepuff-collision
+  m_EditorClassIdentifier: 
+  collisionPolygons:
+  - points:
+    - {x: 1.0091559, y: -0.70843136}
+    - {x: 0.821806, y: -1.072771}
+    - {x: 0.57956237, y: -1.2036682}
+    - {x: 0.20409729, y: -1.2703332}
+    - {x: -0.23126647, y: -1.1362195}
+    - {x: -1.2410967, y: 0.391947}
+    - {x: -1.2798065, y: 0.6173584}
+    - {x: -1.2131023, y: 0.86876583}
+    - {x: -1.0189618, y: 1.1447204}
+    - {x: -0.8023993, y: 1.2703332}
+    - {x: 0.83051085, y: 1.1004772}
+    - {x: 1.1292267, y: 0.9168359}
+    - {x: 1.2798065, y: 0.48770264}
